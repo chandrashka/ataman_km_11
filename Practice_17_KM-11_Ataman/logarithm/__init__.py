@@ -1,0 +1,1 @@
+print("The 'logaritm' module has benn imported.")
